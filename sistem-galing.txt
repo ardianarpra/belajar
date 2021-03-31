@@ -2,9 +2,12 @@
   ^ Menggunakan framework sapper
   
 - Back-end
+  ^ Menggunakan bahasa Nodejs
+  ^ Menggunakan framework express js
   ^ Menggunakan Database Mysql
   
 - Deploy
   ^ Deploy sementara statis dengan vercel
   
 - Middleware
+  ^ Menggunakan ORM Sequelize
