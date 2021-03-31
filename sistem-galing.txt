@@ -1,3 +1,10 @@
 - Front-End
+  ^ Menggunakan framework sapper
+  
 - Back-end
+  ^ Menggunakan Database Mysql
+  
+- Deploy
+  ^ Deploy sementara statis dengan vercel
+  
 - Middleware
