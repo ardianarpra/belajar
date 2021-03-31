@@ -2,13 +2,13 @@
   ^ Menggunakan framework sapper
   
 - Back-end
-  ^ Menggunakan bahasa PHP
-  ^ Menggunakan framework Laravel
+  ^ Menggunakan bahasa Nodejs
+  ^ Menggunakan framework express js
   ^ Menggunakan Database Mysql
   
 - Deploy
   ^ Deploy menggunakan layanan hosting Domainesia
   
 - Middleware
-  ^ Menggunakan Eloquent
+  ^ Menggunakan ORM Sequelize
   ^ Login dengan JSON Web Token
