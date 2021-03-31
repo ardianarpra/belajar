@@ -10,3 +10,5 @@
   ^ Deploy menggunakan layanan hosting Domainesia
   
 - Middleware
+  ^ Menggunakan Eloquent
+  ^ Login dengan JSON Web Token
