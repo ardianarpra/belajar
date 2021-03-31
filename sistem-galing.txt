@@ -11,3 +11,4 @@
   
 - Middleware
   ^ Menggunakan ORM Sequelize
+  ^ Login dengan JSON Web Token
