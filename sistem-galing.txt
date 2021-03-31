@@ -7,7 +7,7 @@
   ^ Menggunakan Database Mysql
   
 - Deploy
-  ^ Deploy sementara statis dengan vercel
+  ^ Deploy menggunakan layanan hosting Domainesia
   
 - Middleware
   ^ Menggunakan ORM Sequelize
