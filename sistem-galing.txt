@@ -2,9 +2,11 @@
   ^ Menggunakan framework sapper
   
 - Back-end
+  ^ Menggunakan bahasa PHP
+  ^ Menggunakan framework Laravel
   ^ Menggunakan Database Mysql
   
 - Deploy
-  ^ Deploy sementara statis dengan vercel
+  ^ Deploy menggunakan layanan hosting Domainesia
   
 - Middleware
