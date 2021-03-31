@@ -2,8 +2,9 @@
   ^ Menggunakan framework sapper
   
 - Back-end
-  ^ Menggunakan Database Firestore dari firebase
+  ^ Menggunakan Database Mysql
   
 - Deploy
+  ^ Deploy sementara statis dengan vercel
   
 - Middleware
