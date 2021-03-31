@@ -1,3 +1,9 @@
 - Front-End
+  ^ Menggunakan framework sapper
+  
 - Back-end
+  ^ Menggunakan Database Firestore dari firebase
+  
+- Deploy
+  
 - Middleware
